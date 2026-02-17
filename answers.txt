@@ -9,3 +9,7 @@ Answer: Data science could be applied to basically every field. One example is t
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: I'm not sure what rebasing is but it seems like merging is like when two people work on the same file on google docs, they don't see each other's work so they might end up doing the same work, the merge conflict helps us so that there's no overwriting of one person's work. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: To be honest, I'm not sure. I guess hanging out with friends and playing games.
