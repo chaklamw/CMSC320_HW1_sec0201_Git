@@ -5,3 +5,7 @@ Answer: Git is very useful when you want to see how a file changes overtime and 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to basically every field. One example is the medical field. They need to create tables of data to keep track of what symptoms a certain illness creates and be able to compare it to a patient's symptoms.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: I'm not sure what rebasing is but it seems like merging is like when two people work on the same file on google docs, they don't see each other's work so they might end up doing the same work, the merge conflict helps us so that there's no overwriting of one person's work. 
